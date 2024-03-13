@@ -1,7 +1,7 @@
 # deep-learning-challenge
 UofD Data Analysis Bootcamp Module 21 Challenge
 
-The primary file is: <Alphabet_Soup.ipynb>. The <Models> directory contains the .h5 files created using the original file and the optimization attempts located in the <Optimizations> directory. The <Resources> directory contains a copy of the <charity_data.csv> utilized by the script.
+The primary file is: <Alphabet_Soup.ipynb>. The Models directory contains the .h5 files created using the original file and the optimization attempts located in the Optimizations directory. The Resources directory contains a copy of the <charity_data.csv> utilized by the script.
 
 I used the format provided by the Starter-Code files provided.
 
